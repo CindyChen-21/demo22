@@ -10,6 +10,8 @@ public class Demo22Application {
         SpringApplication.run(Demo22Application.class, args);
         
         
+        System.out.println("全部都不在了");
+        
         
     }
 
